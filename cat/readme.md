@@ -67,6 +67,3 @@ The program uses `qsort()` to sort the students by marks.
 * [qsort in C - GeeksforGeeks](https://www.geeksforgeeks.org/qsort-in-c-standard-library/)
 
 ---
-
-
-Just tell me what you want next.
